@@ -1,0 +1,126 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 45px;
+}
+h2{
+    font-size: 40px;
+    font-weight: 400;
+}
+p{
+    color: dimgray;
+}
+.Dark-Pink{
+    color: #EC4C7A;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.hello{
+    padding-top: 80px;
+}
+.Yogurt{
+    padding-bottom: 20px;
+}
+.half-width img{
+    width: 100%;
+    padding-top: 25px;
+}
+.top-banner{
+    background-image: url(images/header-bg.png);
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,#F07095, #EC4C7A);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: wheat;
+    font-weight: 700;
+}
+.biography{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.biography img{
+    padding-top: 5px;
+}
+.biography-text{
+    padding-top: 150px;
+}
+.right img{
+    width: 30%; 
+    float: left;
+    padding-left: 50PX;
+}
+.madel img{
+    width:30%; 
+    float: right;
+    padding-right: 40PX;
+    padding-left: 10PX;
+}
+.left img{
+    width: 30%; 
+    padding-right: 30PX;
+    float: right;
+}
+.latest-work{
+    background-image: url(images/latest-work-bg.png);
+}
+.latest-work-text{
+    font-weight: 500;
+    padding-top: 100px;
+    padding-left: 500px;
+}
+.What{
+    text-align: center;
+    font-weight: 600;
+}
+.Bruce{
+    text-align: center;
+    padding-top: 10px;
+}
+.founder{
+    text-align: center;
+    color: gray;
+    font-weight: 400;
+}
+.lorem{
+    text-align: center;
+    padding-top: 40px;
+}
+.gmail{
+    width: 700px;
+    height: 200px;
+    background-image: linear-gradient(45deg,#F07095, #EC4C7A);
+    border-radius: 10px;
+    margin-left: 350px;
+    margin-top: 50px;
+}
+.leave{
+    font-size: 15px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding-top: 50px;
+}
+.mdjubayer{
+    font-size: 25px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.©️{
+    text-align: center;
+    font-size: 12px;  
+}
+.footer{
+    background-image: url(images/footer-bg.png);
+}
